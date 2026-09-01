@@ -1,1 +1,3 @@
-# multyi-stock-analysis-project
+Stock Analysis on the correlation of NVIDIA, Johnson & Johnson, Exxon Mobil Corporation, JPMorgan Chase & Co., Walmart Inc, Bitcoin, and SPDR Gold Shares stocks
+
+Experimenting with 7 varying stocks (which come from 5 diverse sectors), calculating positive and negative correlations between their growth and decline, and creating analysis charts which show which stocks are most recommended to invest into based off of factors such as greatest return on investment, low volatility, or a low sharpe ratio. 
