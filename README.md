@@ -1,6 +1,4 @@
-# Multi-Stock Analysis Project
-
-## Which stocks rise together, which fall together and which are independent of one another?
+# Multi-Stock Analysis Project: Which stocks rise together, which fall together and which are independent of one another?
 
 ### Stock Analysis on the correlation of NVIDIA (NVDA), Johnson & Johnson (JNJ), Exxon Mobil Corporation (XOM), JPMorgan Chase & Co. (JPM), Walmart Inc (WMT), Bitcoin (BTC-USD), and SPDR Gold Shares stocks (GLD) 
 
