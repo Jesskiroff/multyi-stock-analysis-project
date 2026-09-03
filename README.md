@@ -15,7 +15,10 @@ The following research study is conducted by experimenting with 7 varying stocks
 The findings in my research show that stocks in industries such as oil, technology, and finance are co-movers and fluctuate together. My hypothesis is that this phenomenon occurs due to the fact that when the economy is strong, individuals have the dry power to invest into stocks which have potential for growth as well as risk for value decline. This hypothesis, however, has to be further tested.
 
 
-Furthermore, Bitcoin is the runner up in terms of positive correlation with finance and technology.
-Although I predicted that Bitcoin was going to run independently, my prediction was only partially correct: although Bitcoin is part of the cryptocurrency category, and trades differently than do other stocks (Bitcoin is traded 24 hours per day and 7 days per week) while other stocks are traded during market hours, Bitcoin demonstrated to be a macro-sensitive asset, effected by government and economic policies. This, in turn, creates a positive correlation in the comparison of rises and declines in the Bitcoin stock vs. stocks in the technology and finance sectors.
+Furthermore, Bitcoin is the runner up in terms of positive correlation with the finance and technology sectors.
+Although I predicted that Bitcoin was going to run independently, my prediction was only partially correct: Bitcoin is part of the cryptocurrency category, and trades differently than do other stocks (Bitcoin is traded 24 hours per day and 7 days per week) while other stocks are traded during market hours, and yet Bitcoin demonstrated to be a macro-sensitive asset, effected by government and economic policies. This, in turn, creates a positive correlation when comparing trends in the Bitcoin stock vs. technology and finance stocks.
 
+**Winners**
 
+**Absolute return winner**
+NVDA: with a return of 895%, NVDA came far ahead of all the other tested assets. In other words, in the time period tested, 08/2022-08/2025, investing into the NVDA stock would have given one the best return on one’s investment, at a price of 53% volatility.
