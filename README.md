@@ -1,4 +1,4 @@
-# Multi-Stock Analysis Project: Risk, return on investment, partners and opponents?
+# Multi-Stock Analysis Project: Risk, ROI, partners and opponents?
 
 ### Stock Analysis on the correlation of NVIDIA (NVDA), Johnson & Johnson (JNJ), Exxon Mobil Corporation (XOM), JPMorgan Chase & Co. (JPM), Walmart Inc (WMT), Bitcoin (BTC-USD), and SPDR Gold Shares stocks (GLD) 
 
