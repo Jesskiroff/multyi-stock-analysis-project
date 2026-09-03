@@ -16,4 +16,8 @@ The findings in my research show that stocks in industries such as oil, technolo
 
 
 Furthermore, Bitcoin is the runner up in terms of positive correlation with finance and technology.
+<<<<<<< HEAD
 Although I predicted that Bitcoin was going to run independently, my prediction was only partially correct: although Bitcoin is part of the cryptocurrency category, and trades differently than do other stocks (Bitcoin is traded 24 hours per day and 7 days per week) while other stocks are traded during market hours, Bitcoin demonstrated to be a macro-sensitive asset, effected by government and economic policies. This, in turn, creates a positive correlation in the comparison of rises and declines in the Bitcoin stock vs. stocks in the technology and finance sectors.
+=======
+Although I predicted that Bitcoin was going to run independently, my prediction was only partially correct: although Bitcoin is part of the cryptocurrency category, and trades differently than do other stocks (Bitcoin is traded 24 hours per day and 7 days per week) while other stocks are traded during market hours, Bitcoin demonstrated to be a macro-sensitive asset, effected by government and economic policies. This, in turn, creates a positive correlation in the comparison of rises and declines in the Bitcoin stock vs. stocks in the technology and finance sectors.
+>>>>>>> 6b9612c5bf1fccbe097f5d9f6a2a9681d25d56cc
